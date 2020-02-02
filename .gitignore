@@ -1,6 +1,15 @@
 # Compiled class file
 *.class
 
+
+*.iml
+*.iws
+out/
+
+# Excludes useless idea folder
+.idea/*
+
+
 # Log file
 *.log
 
